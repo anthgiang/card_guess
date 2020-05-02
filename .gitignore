@@ -1,0 +1,6 @@
+# Haskell object and interface files
+*.hi
+*.o
+
+# Executable file
+Proj1test
