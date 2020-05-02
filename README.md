@@ -1,7 +1,10 @@
 # card_guess
 
+#### About:
+Please read `proj1.pdf` for context.
+
 #### Requirements:
-- GHCi: https://www.haskell.org/ghc/
+- GHCi (Haskell Compiler): https://www.haskell.org/ghc/
 
 #### Usage:
 ```bash
